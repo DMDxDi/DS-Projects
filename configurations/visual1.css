@@ -7,13 +7,13 @@
     --keyword_color: #5b28ac; /* import */
     --string_color: #043d3d;
     --number_color: #b16286;
-    --def_color: #41a4ad; /* class name */
-    --property_color: #458588; /* python properties */
-    --builtin_color: #689d89;
+    --def_color: #631d5d; /* class name */
+    --property_color: #271880; /* python properties */
+    --builtin_color: #b665ac;
     --comment_color: #898a8a;
-    --comment_color_2: #458588; /* equals sign */
+    --comment_color_2: #164244; /* equals sign */
     --operator_color: #831ac4;
-    --font_color: #42344b; /* general font */
+    --font_color: #d7b7e8; /* general font */
     --variable2_color: #8c54a9; /*self keyworda */
     --box_color: #c3a6d666;
 }
