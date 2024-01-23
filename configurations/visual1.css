@@ -4,16 +4,16 @@
     --header1_color: #0b0b48;
     --header2_color: #251d8f;
     --header3_color: #353fb7;
-    --keyword_color: #5b28ac; /* import */
+    --keyword_color: #57094c; /* import */
     --string_color: #043d3d;
-    --number_color: #b16286;
+    --number_color: #1a71a8;
     --def_color: #631d5d; /* class name */
     --property_color: #271880; /* python properties */
     --builtin_color: #4d1446;
     --comment_color: #898a8a;
     --comment_color_2: #157089; /* equals sign */
     --operator_color: #831ac4;
-    --font_color: #ddc0ec9c; /* general font */
+    --font_color: #d49af23d; /* general font */
     --variable2_color: #8e25d0; /*self keyworda */
     --box_color: #c3a6d666;
 }
