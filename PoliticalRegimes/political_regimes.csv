@@ -1,4 +1,4 @@
-Country Name,Regime
+Country,Regime
 Afghanistan,Closed Anocracy
 Albania,Democracy
 Algeria,Open Anocracy
@@ -30,7 +30,8 @@ Chile,Full Democracy
 China,Autocracy
 Colombia,Democracy
 Comoros,Closed Anocracy
-Congo,Closed Anocracy
+Congo Brazzaville,Closed Anocracy
+Congo Kinshasa,Closed Anocracy
 Costa Rica,Full Democracy
 Croatia,Democracy
 Cuba,Closed Anocracy
@@ -58,7 +59,7 @@ Ghana,Democracy
 Greece,Full Democracy
 Guatemala,Democracy
 Guinea,Open Anocracy
-GuineaBissau,Democracy
+Guinea-Bissau,Democracy
 Guyana,Democracy
 Haiti,Open Anocracy
 Honduras,Democracy
@@ -91,7 +92,7 @@ Madagascar,Democracy
 Malawi,Democracy
 Malaysia,Democracy
 Mali,Open Anocracy
-Mauritania,Closed Anocracy 
+Mauritania,Closed Anocracy
 Mauritius,Full Democracy
 Mexico,Democracy
 Moldova,Democracy
@@ -127,7 +128,7 @@ Senegal,Democracy
 Serbia,Democracy
 Sierra Leone,Democracy
 Singapore,Closed Anocracy
-Slovakia,Full Democracy
+Slovak Republic,Full Democracy
 Slovenia,Full Democracy
 Solomon Islands,Democracy
 Somalia,Open Anocracy
@@ -135,7 +136,7 @@ South Africa,Democracy
 South Korea,Democracy
 Spain,Full Democracy
 Sri Lanka,Democracy
-Sudan,Closed Anocracy 
+Sudan,Closed Anocracy
 Suriname,Open Anocracy
 Eswatini,Autocracy
 Sweden,Full Democracy
@@ -146,7 +147,7 @@ Tajikistan,Closed Anocracy
 Tanzania,Open Anocracy
 Thailand,Closed Anocracy
 Togo,Closed Anocracy
-Trinidad Tobago,Full Democracy
+Trinidad and Tobago,Full Democracy
 Tunisia,Democracy
 Turkey,Closed Anocracy
 Turkmenistan,Autocracy
@@ -161,5 +162,3 @@ Venezuela,Closed Anocracy
 Vietnam,Autocracy
 Zambia,Democracy
 Zimbabwe,Open Anocracy
-
-
